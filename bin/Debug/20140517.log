@@ -1,0 +1,40 @@
+17/05/2014 10:03:36 [LERROR] Error de envío
+	El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+	System.Net.Mail.SmtpException: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, String from)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EnvioEmail.Form1.EnvioMails(String sMail, Int32 progreso, Int32 total) en D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\Form1.vb:línea 48
+17/05/2014 10:04:06 [LERROR] Error de envío
+	El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+	System.Net.Mail.SmtpException: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, String from)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EnvioEmail.Form1.EnvioMails(String sMail, Int32 progreso, Int32 total) en D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\Form1.vb:línea 48
+17/05/2014 10:04:13 [LERROR] Error de envío
+	El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+	System.Net.Mail.SmtpException: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, String from)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EnvioEmail.Form1.EnvioMails(String sMail, Int32 progreso, Int32 total) en D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\Form1.vb:línea 48
+17/05/2014 10:04:19 [LERROR] Error de envío
+	El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+	System.Net.Mail.SmtpException: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, String from)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EnvioEmail.Form1.EnvioMails(String sMail, Int32 progreso, Int32 total) en D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\Form1.vb:línea 48
+17/05/2014 10:04:24 [LERROR] Error de envío
+	El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+	System.Net.Mail.SmtpException: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.1 Authentication required
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, String from)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EnvioEmail.Form1.EnvioMails(String sMail, Int32 progreso, Int32 total) en D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\Form1.vb:línea 48

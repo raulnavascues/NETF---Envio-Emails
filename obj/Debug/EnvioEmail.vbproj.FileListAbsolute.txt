@@ -1,0 +1,15 @@
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.pdb
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.xml
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.Resources.resources
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.vbproj.GenerateResource.Cache
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.exe
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.xml
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.pdb
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe.config
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.vbprojResolveAssemblyReference.cache
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\Spire.Doc.dll
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\Spire.License.dll
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\bin\Debug\Spire.Pdf.dll
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.frmPrincipal.resources
+D:\Programacion\Programacion .NET\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.frmConfig.resources
